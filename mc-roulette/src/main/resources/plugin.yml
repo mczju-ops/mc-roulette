@@ -1,0 +1,7 @@
+name: mc-roulette
+version: '${project.version}'
+main: com.mczju.mcroulette.McRoulette
+api-version: '26.2'
+
+depend:
+  - MCZJUGameCore
